@@ -35,7 +35,8 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> https://github-readme-stats.vercel.app/api?username=moondy217&show_icons=true&theme=transparent
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moondaye0217)](https://github.com/anuraghazra/github-readme-stats)
     </div> 
     </div>
     
