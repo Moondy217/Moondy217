@@ -36,7 +36,6 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
-       [![GitHub Streak](https://streak-stats.demolab.com?user=Moondy217&theme=dark)](https://git.io/streak-stats)
         <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Moondy217&theme=dark" alt="GitHub Streak" /></a>
     </div> 
     </div>
