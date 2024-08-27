@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moondy217&show_icons=true&theme=radical)
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hello%20World%20:)%20Daye%20Git&animation=&fontColor=000000&fontSize=50" />
     </div>
