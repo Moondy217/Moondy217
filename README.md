@@ -35,11 +35,11 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-        
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moondy217&show_icons=true&theme=radical)
-    <div align= "center"> 
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Moondy217&theme=dark" alt="GitHub Streak" /></a>
+       <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Moondy217&bg_color=180,000000,&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moondy217&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+           /> </div> 
+    </div>
     </div> 
     </div>
 
