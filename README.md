@@ -22,7 +22,7 @@
           </div>
     </div>
     <div align= "center">
-    <h3 align="center">📫 Contact 📫</h3>
+    <h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;">📫 Contact 📫</h2>
 <div align="center">
   <a href="https://grove-atom-787.notion.site/Daye-Profile-0270fad007094f9ca68704ea06f10ea2?pvs=4">
      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">&nbsp
