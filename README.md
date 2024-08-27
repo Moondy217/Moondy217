@@ -1,4 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moondy217&show_icons=true&theme=radical)
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hello%20World%20:)%20Daye%20Git&animation=&fontColor=000000&fontSize=50" />
     </div>
@@ -37,6 +36,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moondy217&show_icons=true&theme=radical)
         <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Moondy217&theme=dark" alt="GitHub Streak" /></a>
     </div> 
     </div>
