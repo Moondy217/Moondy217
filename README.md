@@ -36,10 +36,12 @@
     </div>
     <div align= "center"> 
        <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Moondy217&bg_color=180,000000,&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moondy217&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-           /> 
-            <img src=https://github-readme-activity-graph.vercel.app/graph?username=Moondy217&theme="react-dark"/>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=Moondy217&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moondy217&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
+                <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+                    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moondy217&theme=github&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
+                </a>
     </div>
     </div> 
     </div>
