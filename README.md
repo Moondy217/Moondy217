@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 사용자를 우선으로 생각하는 프론트엔드 개발자 </div> 
+    <div style="font-weight: 700; font-size: 20px; text-align: center; color: #282d33;"> <strong>사용자를 우선</strong>으로 생각하는 <strong>프론트엔드 개발자</strong> </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
