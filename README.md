@@ -41,6 +41,7 @@
                 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
                     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moondy217&theme=github&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
                 </a>
+        [![Daye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moondy217)](https://github.com/Moondy217/github-readme-stats)
     </div>
     </div> 
     </div>
