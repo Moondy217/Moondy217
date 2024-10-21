@@ -38,9 +38,7 @@
        <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
         <div align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moondy217&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
-
+            
   <!-- GitHub Stats Card -->
   <a href="https://github.com/Moondy217/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Moondy217&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true" />
