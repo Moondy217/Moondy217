@@ -43,8 +43,3 @@
   <a href="https://github.com/Moondy217/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Moondy217&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true" />
   </a>
-
-  <!-- Activity Graph Card -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moondy217&theme=github&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="100%" />
-</div>
-
