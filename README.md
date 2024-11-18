@@ -83,6 +83,8 @@ Rather than specializing in a single area, I aim to be a comprehensive planning 
 	<img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black" alt = "prettier" />
 </div>
 
+<hr>
+
 <!-- Back-End Stack -->
 <div style="margin: 0 auto; text-align: center;" align="center">
   <h3>Back-End Stack</h3>
@@ -130,6 +132,8 @@ Rather than specializing in a single area, I aim to be a comprehensive planning 
 	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt ="MongoDB" />
 	<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt ="mysql" />
 
+<hr>
+
 <!-- ML Stack  -->
 <div style="margin: 0 auto; text-align: center;" align="center">
   <h3>ML Stack</h3>
@@ -150,6 +154,8 @@ Rather than specializing in a single area, I aim to be a comprehensive planning 
 	<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt = "scipy" />
 </div>
 
+<hr>
+
 <!-- Team Collaboration Tool Stack  -->
 <div style="margin: 0 auto; text-align: center;" align="center">
   <h3>Team Collaboration Tool</h3>
@@ -161,6 +167,8 @@ Rather than specializing in a single area, I aim to be a comprehensive planning 
 	<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt ="Notion" />
 </div>
 
+<hr>
+
 <!--  Version Control -->
 <div style="margin: 0 auto; text-align: center;" align="center">
   <h3>Version Control</h3>
@@ -170,6 +178,8 @@ Rather than specializing in a single area, I aim to be a comprehensive planning 
 	<img src="https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white" alt ="svn" />
 	<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt ="git" />
 	<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt ="github" />
+
+<hr>
 
 <!-- IDE Tool  -->
 <div style="margin: 0 auto; text-align: center;" align="center">
@@ -190,6 +200,8 @@ Rather than specializing in a single area, I aim to be a comprehensive planning 
 	<img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt ="Streamlit" />
 </div>
 
+<hr>
+
 <!-- 📫 Contact 📫  -->
 <div style="margin: 0 auto; text-align: center;" align="center">
   <h3>📫 Contact 📫</h3>
@@ -204,6 +216,8 @@ Rather than specializing in a single area, I aim to be a comprehensive planning 
       src="https://img.shields.io/badge/moondaye0217@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+<hr>
 
 <!--🏅 Stats  -->
 <div style="margin: 0 auto; text-align: center;" align="center">
