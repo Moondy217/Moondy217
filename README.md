@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hello%20World%20:)%20Moondy%20GitHub&animation=&fontColor=000000&fontSize=50" /> </div>
 
 ## 💡 About Me 
-I'm a user-focused HCI Developer passionate about creating seamless digital experiences.
+I'm a user-focused HCI Developer passionate about creating seamless UX experiences.
 
 ## 💡 Professional Overview
 
